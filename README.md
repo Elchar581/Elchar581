@@ -8,6 +8,15 @@ I take manual, repetitive work and make it run without a human.
 - Migrated **300+ backend methods** to pgx v5 — the entire service, including Kernel
 - **1st place**, Kaluga Autumn Hackathon **2024 and 2025** — team lead both times
 
+### Selected work
+
+| Project | What it is | What it shows |
+|---|---|---|
+| [Mobile-dev-skill](https://github.com/Elchar581/Mobile-dev-skill) | Claude Code skill, 1039 lines of reference docs and snippets | I author agent skills, not just use them |
+| [ru-dividends-parser](https://github.com/Elchar581/ru-dividends-parser) | Dividend scraper → multi-sheet Excel, 1847 lines | HTTP layer with caching and retries, parsing, tests |
+| [AppForm-CashFlow-101](https://github.com/Elchar581/AppForm-CashFlow-101) | Shipped React Native app, 4 languages, APK releases | A product taken end-to-end, not a demo |
+| [SignalTester](https://github.com/Elchar581/SignalTester) | Android app for mobile network quality | Team lead, built and won under a hackathon deadline |
+
 **Stack:** Python · FastAPI · Django · Go · PostgreSQL · SQLAlchemy · Docker · LLM agents · n8n · React Native · TypeScript
 
 📫 [maksimcuhrov@gmail.com](mailto:maksimcuhrov@gmail.com) · [Telegram @Elchar581](https://t.me/Elchar581)
