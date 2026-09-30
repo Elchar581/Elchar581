@@ -2,7 +2,7 @@
 
 Yerevan, Armenia · Remote/hybrid · Open to work 
 
-[Email](mailto:maksimcuhrov@gmail.com) · [Telegram](https://t.me/Elchar581) · [VK](https://vk.ru/elchar581) · [GitHub](https://github.com/Elchar581) · [LinkedIn](https://www.linkedin.com/in/maksim-chukhrov-09180943b)
+[Email](mailto:maksimcuhrov@gmail.com) · [Telegram](https://t.me/Elchar581) · [VK](https://vk.ru/elchar581) · [GitHub](https://github.com/Elchar581) · [LinkedIn](https://www.linkedin.com/in/maksim-chukhrov-09180943b)  · [Resume](https://github.com/Elchar581/Elchar581/blob/main/Maksim_Chukhrov_CV_EN.pdf)
 
 ## Summary / О себе
 I build production AI systems that turn manual work into automation.  
@@ -34,7 +34,7 @@ Kaluga State University, Information Systems (Master’s from 2026, Bachelor 202
 
 Ереван, Армения · Удалёнка/гибрид · Открыт к предложениям  
 
-[Email](mailto:maksimcuhrov@gmail.com) · [Telegram](https://t.me/Elchar581) · [VK](https://vk.ru/elchar581) · [GitHub](https://github.com/Elchar581) · [LinkedIn](https://www.linkedin.com/in/maksim-chukhrov-09180943b)
+[Email](mailto:maksimcuhrov@gmail.com) · [Telegram](https://t.me/Elchar581) · [VK](https://vk.ru/elchar581) · [GitHub](https://github.com/Elchar581) · [LinkedIn](https://www.linkedin.com/in/maksim-chukhrov-09180943b)  · [Резюме](https://github.com/Elchar581/Elchar581/blob/main/Maksim_Chukhrov_CV_RU.pdf)
 
 ## О себе / Summary
 Создаю production AI-системы, автоматизирующие ручную работу.  
