@@ -1,7 +1,7 @@
-# Maksim Chukhrov / Максим Чухров
+# AI / Python Engineer · LLM Agents & Automation
 
-**AI / Python Engineer · LLM Agents & Automation**  
-Yerevan, Armenia · Remote/hybrid · Open to work  
+Yerevan, Armenia · Remote/hybrid · Open to work 
+
 [Email](mailto:maksimcuhrov@gmail.com) · [Telegram](https://t.me/Elchar581) · [VK](https://vk.ru/elchar581) · [GitHub](https://github.com/Elchar581) · [LinkedIn](https://www.linkedin.com/in/maksim-chukhrov-09180943b)
 
 ## Summary / О себе
@@ -39,10 +39,10 @@ Kaluga State University, Information Systems (Master’s from 2026, Bachelor 202
 
 ---
 
-# Максим Чухров / Maksim Chukhrov
+# AI / Python-разработчик · LLM-агенты и автоматизация
 
-**AI / Python-разработчик · LLM-агенты и автоматизация**  
 Ереван, Армения · Удалёнка/гибрид · Открыт к предложениям  
+
 [Email](mailto:maksimcuhrov@gmail.com) · [Telegram](https://t.me/Elchar581) · [VK](https://vk.ru/elchar581) · [GitHub](https://github.com/Elchar581) · [LinkedIn](https://www.linkedin.com/in/maksim-chukhrov-09180943b)
 
 ## О себе / Summary
