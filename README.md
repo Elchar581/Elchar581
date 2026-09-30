@@ -21,7 +21,7 @@ I build production AI systems that turn manual work into automation.
 - **Backend Dev (Python)**, SUNRISE (Jan–Jun 2023)
 
 ## Skills / Навыки
-**AI:** LLM agents, custom skills, orchestration, prompt engineering, n8n  
+**AI:** Claude Code, Codex, OpenClaw, Hermes, LLM agents, custom skills, orchestration, prompt engineering, n8n  
 **Backend:** Python, Django, PostgreSQL, SQL, REST, Docker, CI/CD  
 **Other:** Go, pgx, React, Java, VBA, Git, Linux
 
@@ -53,7 +53,7 @@ Kaluga State University, Information Systems (Master’s from 2026, Bachelor 202
 - **Backend-разработчик (Python)**, SUNRISE (янв–июн 2023)
 
 ## Навыки / Skills
-**AI:** LLM-агенты, кастомные скиллы, оркестрация, промпт-инжиниринг, n8n  
+**AI:** Claude Code, Codex, OpenClaw, Hermes, LLM-агенты, кастомные скиллы, оркестрация, промпт-инжиниринг, n8n  
 **Backend:** Python, Django, PostgreSQL, SQL, REST, Docker, CI/CD  
 **Ещё:** Go, pgx, React, Java, VBA, Git, Linux
 
