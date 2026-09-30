@@ -1,14 +1,26 @@
-## Maksim Chukhrov
+# Maksim Chukhrov / Максим Чухров
 
-**AI / Python developer** — LLM agents and process automation. Yerevan, Armenia.
+**AI / Python Engineer · LLM Agents & Automation**  
+Yerevan, Armenia · Remote/hybrid · Open to work  
+[Email](mailto:maksimcuhrov@gmail.com) · [Telegram](https://t.me/Elchar581) · [VK](https://vk.ru/elchar581) · [GitHub](https://github.com/Elchar581) · [LinkedIn](https://www.linkedin.com/in/maksim-chukhrov-09180943b)
 
-I take manual, repetitive work and make it run without a human.
+## Summary / О себе
+I build production AI systems that turn manual work into automation.  
+- Cut report prep **30 hrs/week → 50 min** using 3 LLM agents + custom orchestrator.  
+- Reduced logistics data processing **8 hrs → 10 min**.  
+- Led university startup **0 → 50+ users/month** (Django + PostgreSQL + React).  
+- Migrated **300+ Go methods to pgx v5**; won **1st place at Kaluga Hackathon 2024 & 2025**.
 
-- Cut preparation of large analytical reports from **30 hours a week to 50 minutes** — three AI agents, custom skills, one orchestrator
-- Migrated **300+ backend methods** to pgx v5 — the entire service, including Kernel
-- **1st place**, Kaluga Autumn Hackathon **2024 and 2025** — team lead both times
+## Experience / Опыт
+- **AI Engineer**, own projects (Feb 2026–present)  
+- **Python Dev / Team Lead**, university startup (Jun 2025–present)  
+- **Backend Dev (Go)**, Digital Documents (Sep 2025–Mar 2026)  
+- **Application Dev**, Advanta Consulting (Jul 2024–Jan 2025)  
+- **Intern**, Rosatom (Apr 2025)  
+- **VBA Dev**, private order (Oct–Dec 2023)  
+- **Backend Dev (Python)**, SUNRISE (Jan–Jun 2023)
 
-### Selected work
+## Selected work
 
 | Project | What it is | What it shows |
 |---|---|---|
@@ -17,21 +29,52 @@ I take manual, repetitive work and make it run without a human.
 | [AppForm-CashFlow-101](https://github.com/Elchar581/AppForm-CashFlow-101) | Shipped React Native app, 4 languages, APK releases | A product taken end-to-end, not a demo |
 | [SignalTester](https://github.com/Elchar581/SignalTester) | Android app for mobile network quality | Team lead, built and won under a hackathon deadline |
 
-**Stack:** Python · FastAPI · Django · Go · PostgreSQL · SQLAlchemy · Docker · LLM agents · n8n · React Native · TypeScript
+## Skills / Навыки
+**AI:** LLM agents, custom skills, orchestration, prompt engineering, n8n  
+**Backend:** Python, Django, PostgreSQL, SQL, REST, Docker, CI/CD  
+**Other:** Go, pgx, React, Java, VBA, Git, Linux
 
-📫 [maksimcuhrov@gmail.com](mailto:maksimcuhrov@gmail.com) · [Telegram @Elchar581](https://t.me/Elchar581)
+## Education / Образование
+Kaluga State University, Information Systems (Master’s from 2026, Bachelor 2026) · Yandex Lyceum, 2020
 
 ---
 
-### По-русски
+# Максим Чухров / Maksim Chukhrov
 
-**AI / Python-разработчик** — LLM-агенты и автоматизация процессов. Ереван.
+**AI / Python-разработчик · LLM-агенты и автоматизация**  
+Ереван, Армения · Удалёнка/гибрид · Открыт к предложениям  
+[Email](mailto:maksimcuhrov@gmail.com) · [Telegram](https://t.me/Elchar581) · [VK](https://vk.ru/elchar581) · [GitHub](https://github.com/Elchar581) · [LinkedIn](https://www.linkedin.com/in/maksim-chukhrov-09180943b)
 
-Беру ручную повторяющуюся работу и делаю так, чтобы она шла без человека.
+## О себе / Summary
+Создаю production AI-системы, автоматизирующие ручную работу.  
+- Сократил подготовку отчётов **30 ч/нед → 50 мин** с помощью 3 LLM-агентов и оркестратора.  
+- Уменьшил обработку логистики **8 ч → 10 мин**.  
+- Вывел стартап **0 → 50+ польз./мес** (Django + PostgreSQL + React).  
+- Перевёл **300+ Go-методов на pgx v5**; **1 место на хакатоне Калуги 2024 и 2025**.
 
-- Подготовка объёмных аналитических отчётов: **30 часов в неделю → 50 минут**. Связка из трёх агентов, собственные скиллы, общий оркестратор
-- **300+ методов** серверной части переведены на pgx v5 — вся серверная часть, включая Kernel
-- **1 место** на Калужском осеннем хакатоне **2024 и 2025**, тимлид обоих составов
-- Коммерческий код у заказчиков: ПАО «Аэрофлот» (через «Адванту Консалтинг»), «Росатом»
+## Опыт / Experience
+- **AI-инженер**, собственные проекты (фев 2026–наст. вр.)  
+- **Python-разработчик / тимлид**, университетский стартап (июн 2025–наст. вр.)  
+- **Backend-разработчик (Go)**, ООО «Цифровые Документы» (сен 2025–мар 2026)  
+- **Разработчик прикладных решений**, ООО «Адванта Консалтинг» (июл 2024–янв 2025)  
+- **Стажёр**, Росатом (апр 2025)  
+- **Разработчик (VBA)**, частный заказ (окт–дек 2023)  
+- **Backend-разработчик (Python)**, SUNRISE (янв–июн 2023)
 
-Открыт к предложениям — удалённо или Ереван.
+## Избранные проекты
+
+| Проект | Что это | Что показывает |
+|---|---|---|
+| [Mobile-dev-skill](https://github.com/Elchar581/Mobile-dev-skill) | Скилл для Claude Code, 1039 строк справочной документации и сниппетов | Я создаю агентские скиллы, а не просто использую их |
+| [ru-dividends-parser](https://github.com/Elchar581/ru-dividends-parser) | Парсер дивидендов → многолистовой Excel, 1847 строк | HTTP-слой с кэшированием и повторными попытками, парсинг, тесты |
+| [AppForm-CashFlow-101](https://github.com/Elchar581/AppForm-CashFlow-101) | Выпущенное React Native приложение, 4 языка, APK-релизы | Продукт, доведённый до конца, а не демо |
+| [SignalTester](https://github.com/Elchar581/SignalTester) | Android-приложение для оценки качества мобильной сети | Тимлид, создал и победил в срок хакатона |
+
+## Навыки / Skills
+**AI:** LLM-агенты, кастомные скиллы, оркестрация, промпт-инжиниринг, n8n  
+**Backend:** Python, Django, PostgreSQL, SQL, REST, Docker, CI/CD  
+**Ещё:** Go, pgx, React, Java, VBA, Git, Linux
+
+## Образование / Education
+КГУ им. Циолковского, Информационные системы (магистратура с 2026, бакалавр 2026) · Яндекс.Лицей, 2020
+
